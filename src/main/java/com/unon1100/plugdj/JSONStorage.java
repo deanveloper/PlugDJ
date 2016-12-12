@@ -1,8 +1,6 @@
-package com.unon1100.PlugDJ;  
+package com.unon1100.plugdj;
 
-import java.util.List;  
-
-public class JSONStorage {  
+public class JSONStorage {
 
 	private int id;  
 	private String DJDisplayName;  
