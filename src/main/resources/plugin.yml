@@ -1,6 +1,6 @@
 name: PlugDJIntegrate
-version: 1.7.2.00
-main: com.unon1100.PlugDJ.PlugDJ
+version: 1.11.0
+main: com.unon1100.plugdj.PlugDJ
 commands:
   plugdj:
     description: 'All commands to configure the plugdj plugin'

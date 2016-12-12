@@ -1,4 +1,4 @@
-package com.unon1100.PlugDJ;
+package com.unon1100.plugdj;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;

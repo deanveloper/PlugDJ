@@ -1,15 +1,16 @@
-package com.unon1100.PlugDJ;
+package com.unon1100.plugdj;
+
+import com.google.gson.Gson;
+import org.bukkit.Bukkit;
+import org.bukkit.ChatColor;
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 
-import org.bukkit.Bukkit;
-import org.bukkit.ChatColor;
-import org.bukkit.craftbukkit.libs.com.google.gson.Gson;
-
 public class JsonToJava {  
-	String prefix = ChatColor.WHITE+"["+ChatColor.GREEN+"PlugDJ"+ChatColor.WHITE+"]";
+	String prefix = ChatColor.WHITE+"["+ChatColor.GREEN+"plugdj"+ChatColor.WHITE+"]";
 	public void jsonToJava(){  
 		try {   
 			// obtained a file object from json file
