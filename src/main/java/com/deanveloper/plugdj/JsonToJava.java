@@ -1,4 +1,4 @@
-package com.unon1100.plugdj;
+package com.deanveloper.plugdj;
 
 import com.google.gson.Gson;
 import org.bukkit.Bukkit;
