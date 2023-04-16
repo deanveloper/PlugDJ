@@ -1,0 +1,13 @@
+name: PlugDJIntegrate
+version: 1.11.0
+main: PlugDJ
+commands:
+  plugdj:
+    description: 'All commands to configure the plugdj plugin'
+    permission: 'plugdj.plugdj'
+    permission-message: 'You do not have permission to execute this command!'
+  currentsong:
+    description: 'Tells you the song currently playing in the plugdj channel'
+    permission: 'plugdj.currentsong'
+    permission-message: 'You do not have permission to view the current song!'
+    aliases: ['song']
